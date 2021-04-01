@@ -1,0 +1,68 @@
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojAssemblyReference.cache
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLibrary.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.cache
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Login.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Splash.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddBands.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddMembers.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBands.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmMembers.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBandMember.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAbout.resources
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.manifest
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.application
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe.manifest
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.application
+D:\TERM 3\Database Design\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.TrustInfo.xml
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.manifest
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.application
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojAssemblyReference.cache
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddBands.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddMembers.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBandMember.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBands.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmMembers.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAbout.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Login.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLibrary.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Splash.resources
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.cache
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.CoreCompileInputs.cache
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.TrustInfo.xml
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe.manifest
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.application
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+D:\TERM 3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.config
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe.manifest
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.application
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.exe
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\bin\Debug\MusicLibrary.pdb
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csprojAssemblyReference.cache
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddBands.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAddMembers.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBandMember.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmBands.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmMembers.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.frmAbout.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Login.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.MusicLibrary.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Properties.Resources.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.Splash.resources
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.GenerateResource.cache
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.csproj.CoreCompileInputs.cache
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.TrustInfo.xml
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe.manifest
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.application
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.exe
+D:\TERM3\Database Programming\Music-Library\MusicLibrary\MusicLibrary\obj\Debug\MusicLibrary.pdb
